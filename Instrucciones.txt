@@ -1,0 +1,10 @@
+Crear un nuevo proyecto utilizando Android Studio 
+donde se implementará la utilización del componente WebView
+La aplicación movil contará con 1 actividad, la actividad tendrá
+un componente del tipo EditText un Button  
+y el WebView todo dentro de la actividad.
+EL funcionamiento de la App consiste en ingresar cualquier url 
+y al momento de oprimir el botón se cargara la pagina en el webView.
+Se subirá a su GitHub y se enviará únicamente el link para ingresar a 
+el repositorio y poder descargar el proyecto. El link se enviará en
+un documento pdf donde el nombre del archivo es su “numero de control.pdf”
